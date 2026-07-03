@@ -1,18 +1,57 @@
-## Getting Started
+# ☕ prac_java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+> My Java practice repository where I learn, experiment, and improve one program at a time. 🚀
 
-## Folder Structure
+## 📖 About
 
-The workspace contains two folders by default, where:
+This repository contains my Java practice exercises as I learn the fundamentals of programming. It serves as my coding journal where I experiment with new concepts, solve simple problems, and build a strong foundation in Java.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🎯 Goals
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- 🌱 Learn Java fundamentals
+- 💡 Practice problem-solving
+- 🧠 Improve programming logic
+- 📚 Explore Object-Oriented Programming (OOP)
+- 🚀 Track my coding progress
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📂 Repository Structure
 
-## Dependency Management
+```
+prac_java/
+├── src/
+│   ├── HelloWorld.java
+│   ├── Number.java
+│   └── ...
+├── bin/
+└── README.md
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🛠️ Topics I'm Learning
+
+- ✅ Variables & Data Types
+- ✅ Input & Output
+- ⏳ Operators
+- ⏳ Conditional Statements
+- ⏳ Loops
+- ⏳ Methods
+- ⏳ Arrays
+- ⏳ Object-Oriented Programming (OOP)
+- ⏳ Exception Handling
+
+> **Legend:**  
+> ✅ Learned & Practiced  
+> ⏳ Currently Learning
+
+## 🌸 Note
+
+Every program in this repository represents a small step toward becoming a better software developer. Consistency beats perfection. 💙
+
+---
+
+<div align="center">
+
+**Happy Coding! ☕✨**
+
+Made with ❤️ while learning Java.
+
+</div>
