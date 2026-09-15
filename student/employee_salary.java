@@ -20,6 +20,9 @@ public class employee_salary {
             System.out.println("Average salary");
         } else {
             System.out.println("Low salary");
+
+
+        sc.close();
         }
 
     }

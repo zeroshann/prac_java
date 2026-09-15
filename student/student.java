@@ -21,6 +21,8 @@ public class student {
             System.out.println("Passed");
         } else {
             System.out.println("Failed");
+
+        sc.close();
         }
     }
 }
