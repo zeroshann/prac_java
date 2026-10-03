@@ -30,9 +30,9 @@ prac_java/
 
 - ✅ Variables & Data Types
 - ✅ Input & Output
-- ⏳ Operators
-- ⏳ Conditional Statements
-- ⏳ Loops
+- ✅ Operators
+- ✅ Conditional Statements
+- ✅ Loops
 - ⏳ Methods
 - ⏳ Arrays
 - ⏳ Object-Oriented Programming (OOP)
